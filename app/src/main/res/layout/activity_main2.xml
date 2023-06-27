@@ -1,0 +1,15 @@
+<!-- activity_second.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/display_text"
+        android:text="Welcome to Second Activity!"
+        android:textSize="24sp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
